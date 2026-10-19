@@ -1,0 +1,15 @@
+Locales.en = {
+    title_error = 'Error',
+    title_success = 'Success',
+    flip_title = 'Vehicle rollover',
+    flip_desc = 'You have rolled your vehicle. Wait inside for help.',
+    noflip_title = 'Rollover detection',
+    noflip_on = 'Rollover detection is disabled for you.',
+    noflip_off = 'Rollover detection is active again.',
+    reset_title = 'Roleplay situation resolved',
+    reset_target = 'The roleplay situation has been resolved: no rollover.',
+    reset_admin = 'Rollover of player %s has been reset.',
+    tflip_admin = 'Vehicle of player %s is being flipped onto its roof.',
+    invalid_id = 'Invalid player ID.',
+    player_not_found = 'Player %s is not online.',
+}

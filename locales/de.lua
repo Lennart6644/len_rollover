@@ -1,0 +1,15 @@
+Locales.de = {
+    title_error = 'Fehler',
+    title_success = 'Erfolg',
+    flip_title = 'Fahrzeugüberschlag',
+    flip_desc = 'Du hast dich überschlagen. Warte im Fahrzeug auf Hilfe.',
+    noflip_title = 'Überschlag-Erkennung',
+    noflip_on = 'Die Überschlag-Erkennung ist für dich deaktiviert.',
+    noflip_off = 'Die Überschlag-Erkennung ist wieder aktiv.',
+    reset_title = 'RP-Situation geklärt',
+    reset_target = 'Die RP-Situation wurde geklärt: Kein Überschlag.',
+    reset_admin = 'Überschlag von Spieler %s wurde zurückgesetzt.',
+    tflip_admin = 'Fahrzeug von Spieler %s wird auf das Dach gedreht.',
+    invalid_id = 'Ungültige Spieler-ID.',
+    player_not_found = 'Spieler %s ist nicht online.',
+}
